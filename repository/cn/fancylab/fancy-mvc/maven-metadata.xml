@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.fancylab</groupId>
+  <artifactId>fancy-mvc</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181008062419</lastUpdated>
+  </versioning>
+</metadata>
